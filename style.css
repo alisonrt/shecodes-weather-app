@@ -1,0 +1,60 @@
+body {
+  font-family: "PT Sans", sans-serif;
+  color: #f6f5f5;
+}
+
+h5 {
+  display: block;
+}
+
+i,
+.card-text {
+  font-size: 35px;
+}
+
+small {
+  font-size: 18px;
+}
+
+.card {
+  background-color: #94d1be;
+}
+
+.fas.fa-cloud {
+  font-size: 45px;
+  color: #7e7f9a;
+}
+
+.container-fluid {
+  margin: 20px auto;
+  border-radius: 25px;
+}
+
+.form-inline .btn {
+  margin-left: 10px;
+  background-color: #f08700;
+}
+
+.card-group {
+  width: 100%;
+}
+
+.row {
+  text-align: center;
+}
+
+.wrapper {
+  width: 800px;
+  margin: 20px auto;
+  background: #114b5f;
+  padding: 15px;
+  border-radius: 20px;
+}
+
+.btn.btn-secondary {
+  background-color: #9ddfd3;
+  color: black;
+}
+
+/* .parent .child .grandchild */
+/* .all.the.same.element.with.all.these.classes */
