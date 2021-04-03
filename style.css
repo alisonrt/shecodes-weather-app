@@ -57,6 +57,8 @@ small {
 }
 .url-link {
   display: block;
+  text-align: center;
+  color: #f08700;
 }
 /* .parent .child .grandchild */
 /* .all.the.same.element.with.all.these.classes */
